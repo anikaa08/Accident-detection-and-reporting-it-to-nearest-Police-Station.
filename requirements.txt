@@ -1,0 +1,8 @@
+tensorflow-cpu
+numpy
+opencv-python
+pytz
+uvicorn
+fastapi
+moviepy
+firebase_admin
